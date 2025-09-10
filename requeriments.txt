@@ -1,0 +1,1 @@
+# Este projeto não requer bibliotecas externas além das built-in do Python
