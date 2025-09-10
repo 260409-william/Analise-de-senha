@@ -1,0 +1,16 @@
+Exemplos de senhas para testeSenhas 
+fracas:
+123456
+password
+qwerty
+admin
+
+Senhas medianas:
+Senha123
+MeuAniversario
+casa#2023
+
+Senhas fortes:
+S3nh@F0rt3!2023
+G@toPreto&Azul_99
+Cyb3rS3cur1ty#1995
