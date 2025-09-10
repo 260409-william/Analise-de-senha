@@ -1,0 +1,38 @@
+
+--- An�lise em 2025-09-10 15:07:42 ---
+Senha: ************
+Pontua��o: 6/7
+Classifica��o: FORTE
+Feedback:
+
+--- An�lise em 2025-09-10 15:10:19 ---
+Senha: ****************
+Pontua��o: 8/7
+Classifica��o: FORTE
+Feedback:
+
+--- Análise em 2025-09-10 15:13:21 ---
+Senha: *****
+Pontuação: 2/7
+Classificação: FRACA
+Feedback:
+  [X] Senha muito curta (mínimo 8 caracteres recomendado)
+  [X] Adicione letras maiúsculas
+  [X] Adicione letras minúsculas
+  [OK] Contém números
+  [X] Adicione caracteres especiais (!@#$% etc.)
+  [OK] Não é uma senha comum
+  [X] Evite sequências óbvias como '123' ou 'abc'
+
+--- Análise em 2025-09-10 15:17:40 ---
+Senha: ************
+Pontuação: 7/7
+Classificação: FORTE
+Feedback:
+  [OK] Senha longa (12+ caracteres)
+  [X] Adicione letras maiúsculas
+  [OK] Contém letras minúsculas
+  [OK] Contém números
+  [OK] Contém caracteres especiais
+  [OK] Não é uma senha comum
+  [OK] Não contém sequências óbvias
